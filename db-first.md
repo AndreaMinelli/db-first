@@ -1,7 +1,5 @@
 Vi chiediamo di immaginare la struttura di una tabella per memorizzare tutti i dati riguardanti delle auto usate messe in vendita da un concessionario!
 
-UNIQUE, AUTOINCREMENT, NOTNULL, UNSIGNED, DEFAULT
-
 | COLONNE                   | TYPES       | ATTRIBUTI                                | INDICI      |
 | ------------------------- | ----------- | ---------------------------------------- | ----------- |
 | ID                        | INT         | UNIQUE, AUTOINCREMENT, NOTNULL, UNSIGNED | PRIMARY KEY |
